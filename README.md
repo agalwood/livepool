@@ -40,7 +40,7 @@ node livepool.js
 
 ### 使用 npm 进行全局安装
 ``` shell
-node install livepool -g
+npm install livepool -g
 ```
 
 - 运行 livepool
